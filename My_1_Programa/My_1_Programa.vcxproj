@@ -151,6 +151,9 @@
     <ResourceCompile Include="My_1_Programa.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="Bitmap.bmp" />
+    <Image Include="Bitmap1.bmp" />
+    <Image Include="E:\win256_3.bmp" />
     <Image Include="My_1_Programa.ico" />
     <Image Include="small.ico" />
   </ItemGroup>

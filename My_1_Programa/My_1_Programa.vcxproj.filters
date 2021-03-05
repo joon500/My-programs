@@ -45,5 +45,14 @@
     <Image Include="My_1_Programa.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
+    <Image Include="Bitmap.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Bitmap1.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="E:\win256_3.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
   </ItemGroup>
 </Project>
